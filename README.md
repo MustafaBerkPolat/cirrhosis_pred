@@ -19,7 +19,7 @@ The exact information in the dataset are as follows:
 2) **N_Days**: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986
 3) **Status**: status of the patient C (censored), CL (censored due to liver tx), or D (death)
 4) **Drug**: type of drug D-penicillamine or placebo
-5) *Age**: age in [days]
+5) **Age**: age in [days]
 6) **Sex**: M (male) or F (female)
 7) **Ascites**: presence of ascites N (No) or Y (Yes)
 8) **Hepatomegaly**: presence of hepatomegaly N (No) or Y (Yes)
